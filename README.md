@@ -110,13 +110,13 @@ My focus:
 
 ---
 
-## 📊 GitHub Statistics
+## 🎀 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thaarani-2007&show_icons=true&theme=rose&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF1493&text_color=555555" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaarani-2007&show_icons=true&bg_color=FFE4E1&title_color=FF69B4&icon_color=FF1493&text_color=555555&border_color=FFB6C1&border_radius=15)](https://github.com/Thaarani-2007)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaarani-2007&layout=compact&theme=rose&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=555555" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaarani-2007&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=555555&border_color=FFB6C1&border_radius=15)](https://github.com/Thaarani-2007)
 
 </div>
 
@@ -148,7 +148,7 @@ I'm always interested in collaborating on exciting projects and discussing techn
 
 ---
 
-## 📝 My Philosophy
+
 
 > *"Code is not just about building features; it's about building systems that scale, maintain themselves, and empower users. Every line of code is an opportunity to learn."* ✨
 
@@ -156,9 +156,6 @@ I'm always interested in collaborating on exciting projects and discussing techn
 
 <div align="center">
 
-### 🎀 If you find my work interesting, please consider starring my repositories!
-
-![Visitors](https://komarev.com/ghpvc/?username=Thaarani-2007&style=flat-square&color=FFB6C1)
 
 **Happy Coding! 🚀🌷**
 
