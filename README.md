@@ -123,9 +123,16 @@ My focus:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaarani-2007&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF1493&text_color=555555&border_color=FFB6C1&border_radius=15)](https://github.com/Thaarani-2007)
+<a href="https://github.com/Thaarani-2007">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thaarani-2007&show_icons=true&bg_color=FFE4E1&title_color=FF69B4&icon_color=FF1493&text_color=555555&border_color=FFB6C1&border_radius=15&v=1" alt="GitHub Stats" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaarani-2007&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=555555&border_color=FFB6C1&border_radius=15)](https://github.com/Thaarani-2007)
+<br/>
+<br/>
+
+<a href="https://github.com/Thaarani-2007">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaarani-2007&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=555555&border_color=FFB6C1&border_radius=15&v=1" alt="Top Languages" />
+</a>
 
 </div>
 
