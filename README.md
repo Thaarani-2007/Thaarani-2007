@@ -4,12 +4,13 @@
 
 <br/>
 
-### **Artificial Intelligence & Machine Learning Engineer** *Bridging mathematical theory with robust, enterprise-ready scalable software.*
+### **Artificial Intelligence & Machine Learning Engineer** 
+*Bridging mathematical theory with robust, scalable AI architectures.*
 
 <br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=D4A5A9&center=true&vCenter=true&width=550&lines=Scalable+Full-Stack+Architecture;Advanced+NLP+%26+Reranking+Pipelines;Distributed+Systems+%26+Asynchronous+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=D4A5A9&center=true&vCenter=true&width=550&lines=Deep+Learning+%26+Computer+Vision;Advanced+NLP+%26+RAG+Pipelines;Data+Engineering+%26+MLOps" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,58 +18,57 @@
 <br/>
 
 ### 🪐 Executive Focus
-- 🔭 **Architecting:** A high-performance, enterprise-grade full-stack recruitment platform utilizing microservices and asynchronous processing.
-- 🧠 **Core Expertise:** Integrating sophisticated machine learning pipelines (dense vector search, cross-encoders, clustering) into production-ready web environments.
+- 🔭 **Architecting:** End-to-end Machine Learning pipelines and scalable enterprise applications.
+- 🧠 **Core Expertise:** Large Language Models (LLMs), dense vector search, NLP data extraction, and deploying intelligent systems into production environments.
 
 <br/>
 
 ### 🎀 The Tech Arsenal
 
-**⚙️ Backend Architecture & Asynchronous APIs**
+**🧠 Deep Learning & Machine Learning**
 <br/>
-<img src="https://img.shields.io/badge/Python_3.11+-D4A5A9?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-E8C5C8?style=flat-square&logo=fastapi&logoColor=black" />
-<img src="https://img.shields.io/badge/Celery-B99095?style=flat-square&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-C3B1E1?style=flat-square&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D4A5A9?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-D4A5A9?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-E8C5C8?style=flat-square&logo=tensorflow&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit_Learn-B99095?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-C3B1E1?style=flat-square&logo=opencv&logoColor=white" />
+<br/>
+<sub>*Transformers • CNNs/RNNs • Fine-Tuning • YOLO • Object Detection*</sub>
 
-**🧠 Machine Learning, NLP & Data Extraction**
+**🗣️ Natural Language Processing & GenAI**
 <br/>
 <img src="https://img.shields.io/badge/Hugging_Face-E8C5C8?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/spaCy-B99095?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-C3B1E1?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/BeautifulSoup_4-D4A5A9?style=flat-square&logo=python&logoColor=white" />
-
-**🗄️ Database Engineering & Message Brokers**
+<img src="https://img.shields.io/badge/OpenAI_APIs-B99095?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-C3B1E1?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-D4A5A9?style=flat-square&logo=python&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/PostgreSQL_15+-B99095?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-C3B1E1?style=flat-square&logo=redis&logoColor=white" />
+<sub>*RAG Pipelines • Semantic Search • NER • Text Summarization • Cross-Encoders*</sub>
+
+**🕷️ Data Extraction & Processing**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-B99095?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-C3B1E1?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-D4A5A9?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrapy-E8C5C8?style=flat-square&logo=python&logoColor=black" />
+<br/>
+<sub>*BeautifulSoup • Async HTTP • OCR (Tesseract) • Data Cleaning*</sub>
+
+**🗄️ Vector Databases & Backend**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-C3B1E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/pgvector-D4A5A9?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Alembic-E8C5C8?style=flat-square&logo=python&logoColor=black" />
-
-**🎨 Frontend Engineering & Real-Time UI**
+<img src="https://img.shields.io/badge/FastAPI-E8C5C8?style=flat-square&logo=fastapi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pinecone-B99095?style=flat-square&logo=database&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/React_18-C3B1E1?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-D4A5A9?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-E8C5C8?style=flat-square&logo=socketdotio&logoColor=black" />
+<sub>*ANN Search • FAISS • SQL Modeling*</sub>
 
-**🐳 DevOps, Cloud & CI/CD Infrastructure**
+**⚙️ MLOps & Infrastructure**
 <br/>
-<img src="https://img.shields.io/badge/Docker-D4A5A9?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-E8C5C8?style=flat-square&logo=nginx&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub_Actions-B99095?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-C3B1E1?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-D4A5A9?style=flat-square&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-E8C5C8?style=flat-square&logo=supabase&logoColor=black" />
-<img src="https://img.shields.io/badge/Upstash-B99095?style=flat-square&logo=redis&logoColor=white" />
-
-**📊 Monitoring, Testing & Code Quality**
+<img src="https://img.shields.io/badge/MLflow-D4A5A9?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Weights_&_Biases-E8C5C8?style=flat-square&logo=weightsandbiases&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-B99095?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-C3B1E1?style=flat-square&logo=githubactions&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Pytest-B99095?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentry-C3B1E1?style=flat-square&logo=sentry&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-D4A5A9?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-E8C5C8?style=flat-square&logo=grafana&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-B99095?style=flat-square&logo=git&logoColor=white" />
+<sub>*Model Tracking • CI/CD • Pytest • API Serving*</sub>
 
 <br/>
 <br/>
