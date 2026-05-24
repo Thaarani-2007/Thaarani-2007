@@ -85,7 +85,7 @@ I am a software engineer bridging foundational mathematics and robust, enterpris
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose&hide_border=true&bg_color=FAFAFA&title_color=D4A5A9&icon_color=B99095&text_color=555555" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=thaarani-2007&show_icons=true&theme=rose&hide_border=true&bg_color=FAFAFA&title_color=D4A5A9&icon_color=B99095&text_color=555555" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=rose&hide_border=true&background=FAFAFA&ring=D4A5A9&fire=B99095&currStreakLabel=A28089" alt="GitHub Streak" />
 
@@ -95,7 +95,6 @@ I am a software engineer bridging foundational mathematics and robust, enterpris
 
 <div align="center">
   
-<sub>*Replace `YOUR_GITHUB_USERNAME` in the URLs above to parse your localized telemetry data.*</sub>
 
 <br />
 <br />
