@@ -1,100 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4A5A9&height=120&section=header&text=Thaarani&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%"/>
+# 👋 Hey, I'm Thaarani P S
 
-<br/>
+### Full-Stack Developer | ML Enthusiast | Problem Solver
 
-### **Artificial Intelligence & Machine Learning Engineer** 
-*Bridging mathematical theory with robust, scalable AI architectures.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaarani-p-s-384a5b301/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaaranips007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thaarani-2007)
 
-<br />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=D4A5A9&center=true&vCenter=true&width=550&lines=Deep+Learning+%26+Computer+Vision;Advanced+NLP+%26+RAG+Pipelines;Data+Engineering+%26+MLOps" alt="Typing SVG" />
-</a>
+**Pre-final Year BTech AI/ML Student** | Building scalable systems at scale
 
 </div>
 
-<br/>
+---
 
-### 🪐 Executive Focus
-- 🔭 **Architecting:** End-to-end Machine Learning pipelines and scalable enterprise applications.
-- 🧠 **Core Expertise:** Large Language Models (LLMs), dense vector search, NLP data extraction, and deploying intelligent systems into production environments.
+## 🚀 About Me
 
-<br/>
+I'm a full-stack developer passionate about building production-grade applications that solve real problems. Currently diving deep into **Machine Learning**, **Deep Learning**, and **AI** while strengthening my **Data Structures & Algorithms** foundation.
 
-### 🎀 The Tech Arsenal
+My focus:
+- 🔧 Architecting scalable backends with Django & FastAPI
+- ⚡ Building responsive frontends with React
+- 🤖 Exploring ML/DL for intelligent systems
+- 🧠 Mastering DSA for optimal problem-solving
+- 📦 Deploying production systems on cloud platforms
 
-**🧠 Deep Learning & Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-D4A5A9?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-E8C5C8?style=flat-square&logo=tensorflow&logoColor=black" />
-<img src="https://img.shields.io/badge/Scikit_Learn-B99095?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-C3B1E1?style=flat-square&logo=opencv&logoColor=white" />
-<br/>
-<sub>*Transformers • CNNs/RNNs • Fine-Tuning • YOLO • Object Detection*</sub>
+---
 
-**🗣️ Natural Language Processing & GenAI**
-<br/>
-<img src="https://img.shields.io/badge/Hugging_Face-E8C5C8?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI_APIs-B99095?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-C3B1E1?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-D4A5A9?style=flat-square&logo=python&logoColor=white" />
-<br/>
-<sub>*RAG Pipelines • Semantic Search • NER • Text Summarization • Cross-Encoders*</sub>
+## 💻 Tech Stack
 
-**🕷️ Data Extraction & Processing**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-B99095?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-C3B1E1?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-D4A5A9?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Scrapy-E8C5C8?style=flat-square&logo=python&logoColor=black" />
-<br/>
-<sub>*BeautifulSoup • Async HTTP • OCR (Tesseract) • Data Cleaning*</sub>
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**🗄️ Vector Databases & Backend**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-C3B1E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/pgvector-D4A5A9?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-E8C5C8?style=flat-square&logo=fastapi&logoColor=black" />
-<img src="https://img.shields.io/badge/Pinecone-B99095?style=flat-square&logo=database&logoColor=white" />
-<br/>
-<sub>*ANN Search • FAISS • SQL Modeling*</sub>
+### **Backend & APIs**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
-**⚙️ MLOps & Infrastructure**
-<br/>
-<img src="https://img.shields.io/badge/MLflow-D4A5A9?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Weights_&_Biases-E8C5C8?style=flat-square&logo=weightsandbiases&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-B99095?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-C3B1E1?style=flat-square&logo=githubactions&logoColor=white" />
-<br/>
-<sub>*Model Tracking • CI/CD • Pytest • API Serving*</sub>
+### **Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-<br/>
-<br/>
+### **Asynchronous & Task Management**
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### **Authentication & Security**
+- JWT (JSON Web Tokens)
+- Google OAuth 2.0
+- CORS Configuration
+- Secure Password Hashing (bcrypt)
+
+### **Payment Integration**
+![Razorpay](https://img.shields.io/badge/Razorpay-1275E8?style=flat-square&logo=razorpay&logoColor=white)
+
+### **DevOps & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### **Machine Learning & AI** (Learning)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### **Data Structures & Algorithms**
+- Time & Space Complexity Analysis
+- Arrays, Linked Lists, Trees, Graphs
+- Sorting & Searching Algorithms
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+
+### **Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+### 🛍️ **Full-Stack E-Commerce Platform**
+**Tech Stack:** React.js | Django & DRF | PostgreSQL | Celery | Redis | Razorpay | Cloudinary
+
+**Highlights:**
+- 🎨 Dynamic React frontend with responsive design connecting to RESTful APIs
+- 🔐 Secure authentication using JWT & Google OAuth 2.0 with CORS policies
+- 💳 Integrated Razorpay payment gateway for production-grade transactions
+- 📦 Cloudinary CDN for efficient media storage and handling large file uploads
+- ⚡ Celery background workers with Redis message broker for non-blocking operations
+- 🚀 Deployed on Render (backend) + Netlify (frontend) with CI/CD automation
+- 🖥️ Gunicorn multi-worker server handling concurrent traffic
+- 📜 Automated deployment with Bash scripts (database migrations, dependency installation)
+
+**Key Achievements:**
+- Architected scalable API endpoints following REST principles
+- Implemented asynchronous task processing for email notifications and file uploads
+- Optimized database queries and implemented caching strategies
+- Reduced load times by 40% through WhiteNoise static file optimization
+
+[View Repository](#) | [Live Demo](#)
+
+---
+
+## 🎓 Currently Learning
+
+### Machine Learning & Deep Learning
+![In Progress](https://img.shields.io/badge/In_Progress-FF9800?style=flat-square)
+
+- **Supervised Learning:** Regression, Classification, Decision Trees, Random Forests
+- **Deep Learning:** Neural Networks, CNNs, RNNs, Transformers
+- **NLP:** Text processing, embeddings, semantic search
+- **Computer Vision:** Image classification, object detection
+- **ML Engineering:** Model training, evaluation, optimization
+
+### Data Structures & Algorithms
+![In Progress](https://img.shields.io/badge/In_Progress-FF9800?style=flat-square)
+
+- Solving LeetCode/CodeChef problems daily
+- Focus on optimal time & space complexity
+- Pattern recognition and algorithm design
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 📊 Platform Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaarani-2007&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thaarani-2007&show_icons=true&theme=rose&hide_border=true&bg_color=FAFAFA&title_color=D4A5A9&icon_color=B99095&text_color=555555" alt="GitHub Stats" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaarani-2007&layout=compact&theme=radical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thaarani-2007&theme=rose&hide_border=true&background=FAFAFA&ring=D4A5A9&fire=B99095&currStreakLabel=A28089" alt="GitHub Streak" />
+</div>
 
-<br />
-<br />
+---
 
-### 💌 Let's Connect 
+## 🎯 Key Skills & Competencies
 
-<a href="mailto:thaaranips007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D4A5A9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/thaarani-p-s-384a5b301/">
-  <img src="https://img.shields.io/badge/LinkedIn-E8C5C8?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
+### **Backend Engineering**
+- ✅ RESTful API Design & Documentation
+- ✅ Database Design & Optimization (SQL, Indexing)
+- ✅ Authentication & Authorization (JWT, OAuth)
+- ✅ Asynchronous Task Processing (Celery)
+- ✅ Error Handling & Logging
+- ✅ Code Testing & Quality Assurance
 
-<br />
-<br />
+### **Frontend Development**
+- ✅ React Hooks & State Management
+- ✅ Component-Based Architecture
+- ✅ Responsive Design
+- ✅ API Integration
+- ✅ Performance Optimization
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4A5A9&height=80&section=footer" width="100%"/>
+### **System Design & DevOps**
+- ✅ Cloud Deployment (Render, Netlify)
+- ✅ Docker & Containerization
+- ✅ CI/CD Pipelines
+- ✅ Server Configuration (Gunicorn, Nginx)
+- ✅ Static File Optimization (WhiteNoise)
+
+### **Problem Solving**
+- ✅ Data Structures Mastery
+- ✅ Algorithm Optimization
+- ✅ Debugging & Troubleshooting
+- ✅ Performance Profiling
+
+---
+
+## 🏆 Achievements
+
+- 🎓 **Pre-Final Year BTech AI/ML Student**
+- 🚀 **Full-Stack Application Deployed to Production**
+- 💳 **Integrated Payment Gateway (Razorpay)**
+- 🔐 **Implemented Secure Authentication Systems**
+- ⚡ **Optimized Application Performance (40% load time reduction)**
+- 📚 **Continuous Learner:** ML, DL, AI, DSA
+
+---
+
+## 📚 Learning Resources I Follow
+
+- 🎥 **YouTube:** freeCodeCamp, Traversy Media, CS50
+- 📖 **Books:** "Cracking the Coding Interview", "Designing Data-Intensive Applications"
+- 💻 **Platforms:** LeetCode, CodeChef, HackerRank
+- 🤖 **Courses:** Fast.ai, Hugging Face, Andrew Ng's ML Course
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects and discussing technology!
+
+- **Email:** [thaaranips007@gmail.com](mailto:thaaranips007@gmail.com)
+- **LinkedIn:** [thaarani-p-s-384a5b301](https://www.linkedin.com/in/thaarani-p-s-384a5b301/)
+- **GitHub:** [Thaarani-2007](https://github.com/Thaarani-2007)
+
+---
+
+## 📝 My Philosophy
+
+> "Code is not just about building features; it's about building systems that scale, maintain themselves, and empower users. Every line of code is an opportunity to learn."
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, please consider starring my repositories!
+
+![Visitors](https://komarev.com/ghpvc/?username=Thaarani-2007&style=flat-square&color=blue)
+
+**Happy Coding! 🚀**
+
 </div>
